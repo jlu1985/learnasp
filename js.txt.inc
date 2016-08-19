@@ -1,0 +1,1 @@
+Some static text in the js.txt.inc file
